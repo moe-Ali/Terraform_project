@@ -1,4 +1,4 @@
-# my first project in Terraform
+# Terraform project
 This is a [Terraform](https://www.terraform.io/) project for managing AWS resources. 
 It builds AWS infrastructure that contains:
 * [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
